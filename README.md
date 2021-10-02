@@ -1,7 +1,7 @@
 # Hepatitis C prediction 
 The main idea of this small project is to check whether the patient has problems with liver caused by Hepatitis C virus. The data set contains laboratory values of blood donors and Hepatitis C patients with demographic values like age.
 The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/HCV+data
-# The dataset 
+## The dataset 
 All attributes except Category and Sex are numerical.
 Attributes 1 to 4 refer to the data of the patient:
 1) X (Patient ID/No.)
@@ -22,8 +22,11 @@ Attributes 5 to 14 refer to laboratory data:
 
 The dataset has got not only HCV but also it includes its progress stages but for this small dataset it is better to just divde them into: healthy and sick patients 
 
-# Preprocessing of the data 
+## Preprocessing of the data 
 
-# Training of the data 
+## Training of the data 
 
-# Final predictions 
+## Final predictions 
+
+## Future tasks 
+Testing the usage of two models: xgboost and lightgbm 
