@@ -22,8 +22,8 @@ Attributes 5 to 14 refer to laboratory data:
 
 The dataset has got not only HCV but also it includes its progress stages but for this small dataset it is better to just divde them into: healthy and sick patients 
 
-#Preprocessing of the data 
+# Preprocessing of the data 
 
-#Training of the data 
+# Training of the data 
 
-#Final predictions 
+# Final predictions 
